@@ -2,5 +2,6 @@
 
 ## Team Members
 - Malwina Koziarska
-- Kornelia Neugebauer im the best
+- Kornelia Neugebauer
 - Bartosz Bukański
+
