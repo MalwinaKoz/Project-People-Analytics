@@ -1,6 +1,6 @@
 # The Underdogs
 
-## Team Members
+## Team Members :sparkles:
 - Malwina Koziarska
 - Kornelia Neugebauer
 - Bartosz Bukański
