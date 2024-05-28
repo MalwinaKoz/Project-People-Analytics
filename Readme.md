@@ -4,9 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+We're+The+Underdogs!;" />
 </h1>
 
-# **The Underdogs** :dog2:
+# :dog2: **The Underdogs** :dog2:
 
-## Team Members :sparkles:
+## :student: Team Members :student:
 - Malwina Koziarska
 - Kornelia Neugebauer
 - Bartosz Bukański
@@ -17,8 +17,8 @@ The project was initiated as a coursework assignment in a Data Mining class. Its
 ## :briefcase: Business context :briefcase:
 The aim of this project is to develop an algorithm that will enable the most accurate grouping of people based on their qualifications. This algorithm will then be used to identify individuals who are best suited to the requirements of a given project, thereby optimizing the process of creating project teams.
 
-## Problem to be solved
+## :hammer_and_wrench: Problem to be solved :hammer_and_wrench:
 The project aims to simplify the process of finding the most qualified individuals for appropriate roles in project teams, based on their skills as identified in previously completed surveys.
 
-## Machine Learning Method
+## :mechanical_arm: Machine Learning Method :mechanical_arm:
 The algorithm will use a machine learning method called clustering. This method involves grouping a set of objects in such a way that the objects belonging to the same group (cluster) are more similar to each other (according to specified criteria) than to objects in other groups (clusters).
