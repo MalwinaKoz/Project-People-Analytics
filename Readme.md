@@ -4,17 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+We're+The+Underdogs!;" />
 </h1>
 
-# **The Underdogs** :dog:
+# **The Underdogs** :dog2:
 
 ## Team Members :sparkles:
 - Malwina Koziarska
 - Kornelia Neugebauer
 - Bartosz Bukański
 
-## Project description
+## :computer: Project description :computer:
 The project was initiated as a coursework assignment in a Data Mining class. Its purpose is to develop our skills in the field of artificial intelligence, with a particular focus on machine learning, teamwork, and using the GitHub platform. The data for the project was collected through a survey about the competencies of the members of the WAIT – Wrocław AI Team.
 
-## Business context
+## :briefcase: Business context :briefcase:
 The aim of this project is to develop an algorithm that will enable the most accurate grouping of people based on their qualifications. This algorithm will then be used to identify individuals who are best suited to the requirements of a given project, thereby optimizing the process of creating project teams.
 
 ## Problem to be solved
