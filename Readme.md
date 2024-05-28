@@ -11,11 +11,14 @@
 - Kornelia Neugebauer
 - Bartosz Bukański
 
-## Opis projektu
-Projekt został zainicjowany jako zadanie zaliczeniowe w ramach zajęć związanych z eksploracją danych (Data Mining). Jego celem jest rozwijanie naszych kompetencji w dziedzinie sztucznej inteligencji, ze szczególnym uwzględnieniem uczenia maszynowego (Machine Learning), pracy zespołowej oraz obsługi platformy GitHub. Dane do projektu zostały zebrane poprzez przeprowadzenie ankiety dotyczącej kompetencji członków grupy WAIT – Wrocław AI Team.
-## Kontekst biznesowy
-Celem niniejszego projektu jest opracowanie algorytmu, który umożliwi jak najdokładniejsze grupowanie osób pod względem ich kwalifikacji. Algorytm ten będzie następnie wykorzystywany do identyfikacji osób najbardziej odpowiednich do wymagań danego projektu, co zoptymalizuje proces tworzenia zespołów projektowych.
-## Rozwiązywany problem
-Projekt ma na celu uproszczenie procesu wyszukiwania najbardziej wykwalifikowanych osób do odpowiednich ról w zespołach projektowych, bazując na ich umiejętnościach określonych w uprzednio wypełnionych ankietach.
-## Metoda Uczenia Maszynowego
+## Project description
+The project was initiated as a coursework assignment in a Data Mining class. Its purpose is to develop our skills in the field of artificial intelligence, with a particular focus on machine learning, teamwork, and using the GitHub platform. The data for the project was collected through a survey about the competencies of the members of the WAIT – Wrocław AI Team.
+
+## Business context
+The aim of this project is to develop an algorithm that will enable the most accurate grouping of people based on their qualifications. This algorithm will then be used to identify individuals who are best suited to the requirements of a given project, thereby optimizing the process of creating project teams.
+
+## Problem to be solved
+The project aims to simplify the process of finding the most qualified individuals for appropriate roles in project teams, based on their skills as identified in previously completed surveys.
+
+## Machine Learning Method
 Algorytm będzie korzystał z metody uczenia maszynowego zwanej klasteryzacją. Metoda ta polega na grupowaniu zbioru obiektów w taki sposób, aby obiekty należące do tej samej grupy (klastra) były bardziej do siebie podobne (według określonych kryteriów) niż obiekty należące do innych grup (klastrów).
