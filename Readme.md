@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+We're+The+Underdogs!;" />
 </h1>
 
-<text align="center"
+
 # :dog2: **The Underdogs** :dog2:
 
 ## :student: Team Members :student:
@@ -12,7 +12,7 @@
  - Kornelia Neugebauer
  - Bartosz Bukański
 
-## :computer: Project description :computer:>
+## :computer: Project description :computer:
 The project was initiated as a coursework assignment in a Data Mining class. Its purpose is to develop our skills in the field of artificial intelligence, with a particular focus on machine learning, teamwork, and using the GitHub platform. The data for the project was collected through a survey about the competencies of the members of the WAIT – Wrocław AI Team.
 
 ## :briefcase: Business context :briefcase:
