@@ -8,6 +8,7 @@
 # :dog2: **The Underdogs** :dog2:
 
 ## :student: Team Members :student:
+### Meet us:
  - Malwina Koziarska
  - Kornelia Neugebauer
  - Bartosz Bukański
