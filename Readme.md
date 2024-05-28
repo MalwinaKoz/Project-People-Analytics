@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+We're+The+Underdogs!;" />
 </h1>
 
-# The Underdogs
+# **The Underdogs** :dog:
 
 ## Team Members :sparkles:
 - Malwina Koziarska
@@ -21,4 +21,4 @@ The aim of this project is to develop an algorithm that will enable the most acc
 The project aims to simplify the process of finding the most qualified individuals for appropriate roles in project teams, based on their skills as identified in previously completed surveys.
 
 ## Machine Learning Method
-Algorytm będzie korzystał z metody uczenia maszynowego zwanej klasteryzacją. Metoda ta polega na grupowaniu zbioru obiektów w taki sposób, aby obiekty należące do tej samej grupy (klastra) były bardziej do siebie podobne (według określonych kryteriów) niż obiekty należące do innych grup (klastrów).
+The algorithm will use a machine learning method called clustering. This method involves grouping a set of objects in such a way that the objects belonging to the same group (cluster) are more similar to each other (according to specified criteria) than to objects in other groups (clusters).
