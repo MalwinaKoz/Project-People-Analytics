@@ -24,3 +24,6 @@ The project aims to simplify the process of finding the most qualified individua
 
 ## :mechanical_arm: Machine Learning Method
 The algorithm will use a machine learning method called clustering. This method involves grouping a set of objects in such a way that the objects belonging to the same group (cluster) are more similar to each other (according to specified criteria) than to objects in other groups (clusters).
+
+## :dart: Our goal
+The ultimate goal of this project is to be able to create simple and easy to read groups of our objects abilities. This will allow us to group people by advancment level and it will show us natural "circles" of "teachers" that want to or are able to share their knowledge and "students", which means people that want want to further hone and expand their skill repertoire.
