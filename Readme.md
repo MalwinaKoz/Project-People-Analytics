@@ -13,9 +13,9 @@
  - [Kornelia Neugebauer][2] 
  - [Bartosz Bukański][3] 
 
- [1]: (https://github.com/MalwinaKoz)
- [2]: (https://github.com/Nellia00)
- [3]: (https://github.com/Barteczek1)
+ [1]: (https://github.com/MalwinaKoz) "Malwina Koziarska"
+ [2]: (https://github.com/Nellia00) "Kornelia Neugebauer"
+ [3]: (https://github.com/Barteczek1) "Bartosz Bukański"
 
 ## :computer: Project description
 The project was initiated as a coursework assignment in a Data Mining class. Its purpose is to develop our skills in the field of artificial intelligence, with a particular focus on machine learning, teamwork, and using the GitHub platform. The data for the project was collected through a survey about the competencies of the members of the WAIT – Wrocław AI Team.
