@@ -32,3 +32,5 @@ The ultimate goal of this project is to be able to create simple and easy to rea
 
 ## :chart_with_upwards_trend: Our results
 Finally, we can present You some results of our clustering and grouping.
+
+### :books: Our libraries
