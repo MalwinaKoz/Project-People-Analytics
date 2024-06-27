@@ -34,7 +34,7 @@ The ultimate goal of this project is to be able to create simple and easy to rea
 Finally, we can present You some results of our clustering and grouping.
 
 ### :scroll: Full Documentation
-[Click here for full documentation]{docs/Documentation.md}
+[Click here for full documentation](docs/Documentation.md)
 
 ### :books: Our requirements
 [Check it out here!](docs/Requirements.md)
