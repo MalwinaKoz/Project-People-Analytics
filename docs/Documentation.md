@@ -1,19 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MalwinaKoz.Project-People-Analytics" />
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+We're+The+Underdogs!;" />
-</h1>
-
-
-# :dog2: **The Underdogs** :dog2:
-
-## :student: Team Members
-
-### Meet us:
- - [Malwina Koziarska](https://github.com/MalwinaKoz) 
- - [Kornelia Neugebauer](https://github.com/Nellia00)
- - [Bartosz Bukański](https://github.com/Barteczek1) 
-
+# Project People Analytics
 
 ## :computer: Project description
 The project was initiated as a coursework assignment in a Data Mining class. Its purpose is to develop our skills in the field of artificial intelligence, with a particular focus on machine learning, teamwork, and using the GitHub platform. The data for the project was collected through a survey about the competencies of the members of the WAIT – Wrocław AI Team.
@@ -32,9 +17,6 @@ The ultimate goal of this project is to be able to create simple and easy to rea
 
 ## :chart_with_upwards_trend: Our results
 Finally, we can present You some results of our clustering and grouping.
-
-### :scroll: Full Documentation
-[Click here for full documentation]{docs/Documentation.md}
 
 ### :books: Our requirements
 [Check it out here!](docs/Requirements.md)
