@@ -9,9 +9,9 @@
 
 ## :student: Team Members
 ### Meet us:
- - Malwina Koziarska (https://github.com/MalwinaKoz) 
- - Kornelia Neugebauer (https://github.com/Nellia00)
- - Bartosz Bukański (https://github.com/Barteczek1) 
+ - [Malwina Koziarska](https://github.com/MalwinaKoz) 
+ - [Kornelia Neugebauer](https://github.com/Nellia00)
+ - [Bartosz Bukański](https://github.com/Barteczek1) 
 
 
 
