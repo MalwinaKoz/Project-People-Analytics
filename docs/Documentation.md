@@ -27,7 +27,7 @@ First of all we are looking for incomplete data records. Some people cold miss a
 <img
     width="300"
                 alt="Missing Values Heatmap"
-                src="figures/02_MissingValuesHeatmap.png">
+                src="../figures/02_MissingValuesHeatmap.png">
 </p>
 
 #### Our requirements
