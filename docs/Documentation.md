@@ -193,7 +193,7 @@ Next, we are generate a plot of bonding distances versus bonding stages (scree p
 <img
     width="800"
                 alt="Euclidean Scree Plot Without Knowledge"
-                src="../figures/04_EuclideanScreePlotWithKnowledge.png">
+                src="../figures/04_EuclideanScreePlotWithoutKnowledge.png">
 </p>
 
 Based on the screen plot, we choose the threshold at level 11.
