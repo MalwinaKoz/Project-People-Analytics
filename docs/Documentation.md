@@ -126,7 +126,7 @@ Secondly, we are testing the manhattan distance.
 <img
     width="800"
                 alt="Manhattan Dendrogram"
-                src="../figures/04_ManhattanDenrogram.png">
+                src="../figures/04_ManhattanDendrogram.png">
 </p>
 
 Then, we are generate a plot of bonding distances versus bonding stages (scree plot) to help determine the appropriate dendrogram cutting threshold.
@@ -184,7 +184,7 @@ Our steps are excaly the same as with the first data set.
 <img
     width="800"
                 alt="Euclidean Dendrogram Without Kownledge"
-                src="../figures/04_EuclideanDendrogramWithoutKonwledge.png">
+                src="../figures/04_EuclideanDendrogramWithoutKnowledge.png">
 </p>
 
 Next, we are generate a plot of bonding distances versus bonding stages (scree plot) to help determine the appropriate dendrogram cutting threshold.
@@ -193,7 +193,7 @@ Next, we are generate a plot of bonding distances versus bonding stages (scree p
 <img
     width="800"
                 alt="Euclidean Scree Plot Without Knowledge"
-                src="../figures/04_EuclideanScreePlotWithKonwledge.png">
+                src="../figures/04_EuclideanScreePlotWithKnowledge.png">
 </p>
 
 Based on the screen plot, we choose the threshold at level 11.
@@ -205,7 +205,7 @@ Secondly, we are testing the manhattan distance.
 <img
     width="800"
                 alt="Manhattan Dendrogram Without Knowledge"
-                src="../figures/04_ManhattanDenrogramWithoutKnowledge.png">
+                src="../figures/04_ManhattanDendrogramWithoutKnowledge.png">
 </p>
 
 Then, we are generate a plot of bonding distances versus bonding stages (scree plot) to help determine the appropriate dendrogram cutting threshold.
