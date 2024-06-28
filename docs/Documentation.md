@@ -43,7 +43,7 @@ After renaming it we are simplifying contents of the answers so it would be more
 #### Deleting data
 To clean our data records even further we need to throw out "garbage". In this case this "garbage" would be ccolumns that hold answers to the open questions. Very few students decided to answer them so it just messies up our data set and could only confuse us.
 
-To corecctly delete columns we use formlua below and we also specify which ones we want to "drop" by adressing them.
+To correctly delete columns we use formlua below and we also specify which ones we want to "drop" by adressing them.
 
 Our data can be considered "clean" now. As seen on the heatmap below there are no missing values.
 
@@ -76,7 +76,7 @@ Firstly, we check how points distribute amogst the skill types. Our legend on th
 We can clearly see the ratio between "mentors" and "interested" students in certain skills.
 
 #### Correlation matrix
-To check correlation within our data we create a correlation matrix. FOr cleanles of our documentation we decided to create a triangle type of this specific matrix. Thanks to that we can see which skills have the strongest corellation.
+To check correlation within our data we create a correlation matrix. For cleanles of our documentation we decided to create a triangle type of this specific matrix. Thanks to that we can see which skills have the strongest corellation.
 
 <p align="center">
 <img
