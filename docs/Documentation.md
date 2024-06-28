@@ -25,10 +25,12 @@ First of all we are looking for incomplete data records. Some people cold miss a
 
 <p align="center">
 <img
-    width="300"
+    width="500"
                 alt="Missing Values Heatmap"
                 src="../figures/02_MissingValuesHeatmap.png">
 </p>
 
+As You can see on the heat map, we do have some records with missing values which are represented by the grey areas. Just to be sure how many records are NOT NULL, we check it by using the formula below.
+
 #### Our requirements
-[Check it out here!](docs/Requirements.md)
+[Check it out here!](../docs//Requirements.md)
