@@ -22,7 +22,13 @@ We take our raw data to clean and preprare it for the analysis.
 
 ##### Looking for missing values
 First of all we are looking for incomplete data records. Some people cold miss a question or decided they do not want to answer it.
-<img src="figures/02_MissingValuesHeatmap.png" width="300">
+
+<p align="center">
+<img
+    width="300"
+                alt="Missing Values Heatmap"
+                src="figures/02_MissingValuesHeatmap.png">
+</p>
 
 #### Our requirements
 [Check it out here!](docs/Requirements.md)
