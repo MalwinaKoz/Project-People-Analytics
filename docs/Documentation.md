@@ -325,7 +325,7 @@ After the analysis, we can conclude that better results are produced by using da
 We used Lloyd's algorithm for our k-means clustering. Lloyd's algorithm iteratively refines cluster centers by alternating between assigning each data point to the nearest cluster center and then updating the cluster centers based on the mean of the assigned points. This process continues until convergence, ensuring an effective grouping of similar data points.
 
 ## Our final thoughts
-While comapring both methods of training our data, we deiced we are more likely to choose hierarchical analysis. The k-means method it does have its perks, but for the future chamges and further analysis we turned to dendrograms. The available visualization allows us to better understand our data set. This method makes it easier for us to group people and in the future it will help us to create more detalied and specified clusters. 
+While comapring both methods of training our data, we decided we are more likely to choose hierarchical analysis. The k-means method it does have its perks, but for the future changes and further analysis we turned to dendrograms. The available visualization allows us to better understand our data set. This method makes it easier for us to group people and in the future it will help us to create more detalied and specified clusters. 
 
 #### Our requirements
 [Check it out here!](../docs//Requirements.md)
